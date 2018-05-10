@@ -5,3 +5,4 @@ def display_board(board)
 print "   |   |   \n-----------\n   |   |   \n-----------\n   |   |   \n"
 end
 board = []
+display_board(board)
